@@ -1,0 +1,41 @@
+
+
+<web name="wallet.latoken.com" command="get" data="wallet.latoken.com/crm/tokenization/" />
+
+<web  name="ASSET TOKENS" target="xpath=//*[@id='app']/div/div[2]/div/div/div/div/div[3]"  command="click" blockExitName="0"  wait="15"/>
+<web  name="Your Full Name" target="xpath=//*[@id='wizard-asset-tokens-your-full-name']"  command="sendKeys" data="Reznitskiy Misha" blockExitName="0"  />
+<web  name="Email" target="xpath=//*[@id='wizard-asset-tokens-email']"  command="sendKeys" data="dfnkjfelllfklele@gmail.com" blockExitName="0"  />
+<web  name="Mobile Phone" target="xpath=//*[@id='wizard-asset-tokens-mobile-phone']"  command="sendKeys" data="11111111" blockExitName="0"  />
+<web  name="Telegram Contact" target="xpath=//*[@id='wizard-asset-tokens-telegram-contact']"  command="sendKeys" data="2222222" blockExitName="0"  />
+
+<web  name="Next" target="xpath=//*[@id='next']"  command="click" blockExitName="0"  />
+
+<web  name="Project Name" target="xpath=//*[@id='wizard-asset-tokens-project-name']"  command="sendKeys" data="Project Name1" blockExitName="0"  />
+<web  name="Project Website" target="xpath=//*[@id='wizard-asset-tokens-project-website']"  command="sendKeys" data="mail.ru" blockExitName="0"  />
+
+<web  name="Asset Type" target="xpath=//*[@id='wizard-asset-tokens-asset-type']/div/div/div"  command="click"  blockExitName="0"  />
+
+
+<web  name="Asset Type33" target="cssSelector=.ant-select-dropdown-menu-item-active"  command="click"  blockExitName="0"  wait="1"/>
+
+<web  name="Project Industry" target="xpath=//*[@id='wizard-asset-tokens-project-industry']"  command="sendKeys" data="Industry" blockExitName="0"  />
+<web  name="Project description" target="xpath=//*[@id='wizard-asset-tokens-project-description']"  command="sendKeys" data="Project description..." blockExitName="0"  />
+<web  name="Plan to use the raised funds" target="xpath=//*[@id='wizard-asset-tokens-plan-to-use']"  command="sendKeys" data="Plan to use the raised funds..." blockExitName="0"  />
+
+<web  name="Valuation estimate of the tokenized asset" target="xpath=//*[@id='wizard-asset-tokens-asset-token-valuation']"  command="sendKeys" data="1000" blockExitName="0"  />
+
+<web  name="Share for tokenization (%)" target="id=wizard-art-work-fund-raising-target"  command="click" blockExitName="0"  />
+
+<web  name="Share for tokenization2 (%)" target="id=wizard-art-work-fund-raising-target"  command="sendKeys" data="60" blockExitName="0" wait="1" />
+
+<web  name="Settlement Term" target="xpath=//div[@id='wizard-asset-tokens-settlement-term-years']/div/div/div"  command="click"  blockExitName="0"  />
+
+<web  name="Settlement Term5" target="xpath=//li[5]"  command="click"  blockExitName="0" wait="1" />
+
+<web  name="Submit" target="xpath=//*[@id='submit-request']"  command="click" blockExitName="0"  />
+
+
+<web  name="THANK YOU!" target="linkText=THANK YOU!"  command="if"   blockExitName="0"  wait="5" />
+
+
+	

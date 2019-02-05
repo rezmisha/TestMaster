@@ -1,0 +1,34 @@
+test1  Цикл main итерация: 0
+test1  wallet.latoken.com 
+test1  wallet.latoken.com значение wallet.latoken.com/crm/tokenization/
+test1  ASSET TOKENS 
+test1  Your Full Name 
+test1  Your Full Name значение Reznitskiy Misha
+test1  Email 
+test1  Email значение dfnkjfelllfklele@gmail.com
+test1  Mobile Phone 
+test1  Mobile Phone значение 11111111
+test1  Telegram Contact 
+test1  Telegram Contact значение 2222222
+test1  Next 
+test1  Project Name 
+test1  Project Name значение Project Name1
+test1  Project Website 
+test1  Project Website значение mail.ru
+test1  Asset Type 
+test1  Asset Type33 
+test1  Project Industry 
+test1  Project Industry значение Industry
+test1  Project description 
+test1  Project description значение Project description...
+test1  Plan to use the raised funds 
+test1  Plan to use the raised funds значение Plan to use the raised funds...
+test1  Valuation estimate of the tokenized asset 
+test1  Valuation estimate of the tokenized asset значение 1000
+test1  Share for tokenization (%) 
+test1  Share for tokenization2 (%) 
+test1  Share for tokenization2 (%) значение 60
+test1  Settlement Term 
+test1  Settlement Term5 
+test1  Submit 
+test1  THANK YOU! 
